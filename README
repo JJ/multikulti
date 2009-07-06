@@ -1,0 +1,11 @@
+This is the first release of the multikulti algorithm, and made mainly
+for support of the papers we're submitting to several journals and
+conferences. This means that you're basically on your own if you want
+to use it. However, here are some guidelines to compile
+* You need to install PVM3, preferably in /usr/share/pvm3 (the
+directory the Makefile refers to)
+* It should work with current versions of gnu C++. If it does not,
+please let us know.
+
+Basically, you're done downloading it, unpacking it, and issuing
+make. Good luck!

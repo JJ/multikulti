@@ -1,0 +1,3 @@
+The multikulti algorithm was created by Lourdes Araújo and JJ Merelo, available for instance from
+> Araujo, L.; Merelo Guervos, J.J., "Multikulti algorithm: Using genotypic differences in adaptive distributed evolutionary algorithm migration policies," Evolutionary Computation, 2009. CEC '09. IEEE Congress on , vol., no., pp.2858-2865, 18-21 May 2009
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4983301&isnumber=4982922
